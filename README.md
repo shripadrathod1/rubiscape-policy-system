@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rubiscape-Industry%20Project-1E3A8A?style=for-the-badge" alt="Rubiscape"/>
 <img src="https://img.shields.io/badge/Stack-Full%20Stack-1D4ED8?style=for-the-badge" alt="Full Stack"/>
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/>
@@ -23,7 +22,6 @@
   <a href="#-getting-started">Getting Started</a> •
   <a href="#-api-reference">API Reference</a> •
   <a href="#-project-structure">Structure</a> •
-  <a href="#-team">Team</a>
 </p>
 
 ---
@@ -63,7 +61,7 @@
 
 ## 🌐 Overview
 
-The **Policy Definition and Management System** is an industry-level full-stack web application developed in collaboration with **Rubiscape** — an enterprise data governance platform.
+The **Policy Definition and Management System** is an industry-level full-stack web application 
 
 The system enables organizational administrators to **create, manage, and monitor governance policies** through a clean visual interface, without writing a single line of code.
 
@@ -89,7 +87,7 @@ Policies can govern:
 | Complex existing tools | XACML, Drools require specialist knowledge |
 | No centralized monitoring | No single view of active vs inactive policies |
 
-**Rubiscape's Requirement:** Build a governance policy module where admins can define rules visually, with AND/OR logic, and manage them end-to-end — without engineering support.
+
 
 ---
 
@@ -613,33 +611,6 @@ Running `npm run seed` inserts these 8 sample policies:
 | **Policy List** | Table with type/status filters and search |
 | **Create Policy** | Form with live Rule Builder and JSON preview |
 | **Policy Detail** | Full policy view with rule breakdown |
-
----
-
-## 👥 Team
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Shripad Rathod</strong><br/>
-      PRN: 22311896<br/>
-      <a href="https://github.com/shripadrathod">@shripadrathod</a>
-    </td>
-    <td align="center">
-      <strong>Atharv Mandhare</strong><br/>
-      PRN: 22311543<br/>
-      <a href="https://github.com/atharvmandhare">@atharvmandhare</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🙏 Acknowledgements
-
-- **Prof. Manisha Mali** — Project Guide, for technical mentorship and direction
-- **Rubiscape** — Industry partner for the project requirement and domain context
-- **Express.js**, **MongoDB**, **React** — Open-source communities
 
 ---
 
