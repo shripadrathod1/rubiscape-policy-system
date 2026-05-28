@@ -636,7 +636,6 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Built with ❤️ for Rubiscape Industry Project**
 
 [![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/policy-management-system?style=social)](https://github.com/YOUR_USERNAME/policy-management-system)
 
